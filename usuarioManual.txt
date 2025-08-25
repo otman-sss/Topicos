@@ -1,4 +1,0 @@
-Manual de Usuario del Sistem
-Este sistema sirve para gestionar datos de clientes. 
-El usario puede intalar el programa en su computadora. 
-El sistema es fasil de usar y no requiere muchos conosimientos tecnicos.
