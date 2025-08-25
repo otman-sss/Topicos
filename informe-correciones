@@ -1,1 +1,28 @@
+ERRORES QUE SE ENCONTRARON.
 
+Sistem - Sistema (ortografico)
+usario - usuario (ortografico)
+intalar - instalar (ortografico)
+fasil - fácil (acentuacion y ortografico)
+conosimiento - conocimientos (ortografico)
+tecnico - técnico (acentuacion)
+----------------------------------
+HERRAMIENTA UTILIZADA
+
+LanguageTool
+----------------------------------
+CAMBIOS REALIZADOS
+  ANTES
+Manual de Usuario del Sistem
+Este sistema sirve para gestionar datos de clientes. 
+El usario puede intalar el programa en su computadora. 
+El sistema es fasil de usar y no requiere muchos conosimientos tecnicos.
+  DESPUES
+Manual de Usuario del Sistema
+Este sistema sirve para gestionar datos de clientes. 
+El usuario puede instalar el programa en su computadora. 
+El sistema es fácil de usar y no requiere muchos conocimientos técnicos.
+---------------------------------
+JUSTIFICACION
+Acepté las correcciones ortográficas porque eran errores evidentes.
+--------------------------------
